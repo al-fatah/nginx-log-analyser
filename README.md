@@ -40,3 +40,5 @@ Top 5 response status codes:
 401 - 30 requests
 304 - 20 requests
 ```
+
+https://roadmap.sh/projects/nginx-log-analyser
